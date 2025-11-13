@@ -19,5 +19,11 @@ Users can **add, edit, mark as complete, and delete tasks** with ease.
 
 ---
 
+If you found this helpful, give it a ⭐!
+
 # ❤️ Made with Love by Evans and the community.
+
+<div align="center">
+
+### 🌟 **Thanks for Visiting!** 🌟
 
